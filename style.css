@@ -1,0 +1,324 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: poppins,sans-serif;
+}
+.pic1 img{
+    height: 50px;
+    width: 50px;
+
+}
+.navbar{
+    background-color: #ffffff;
+}
+.navbutton{
+    background-color: #4294d0;
+    border-radius: 16px;
+    
+    color: white;
+}
+.navbutton:hover
+{
+    color: #4294d0;
+    border: .5px solid #4294d0;
+    border-radius: 12px;
+}
+.navbutton1{
+    
+    border-radius: 16px;
+    border: .5px solid #4294d0;
+    color: #4294d0;
+}
+.texto{
+    font-weight: 300;
+
+}
+.heado{
+    font-size: 24px;
+    color: black;
+    font-weight: 300;
+}
+.headoo{
+    font-size: 30px;
+    color: #4294d0;
+    font-weight: 500;
+}
+.heado1{
+    font-size: 28px;
+    font-weight: 600;
+    
+
+}
+.heado2{
+    font-size: 16px;
+ 
+
+}
+.headoi {
+    margin-left: px;
+    
+
+
+}
+.imgo img{
+    border-top-right-radius: 30px;
+}
+.midimg img{
+    height: 380px;
+    width: 800px;
+    border-bottom-left-radius: 30px;
+}
+
+
+.recrec h3{
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.navbutton1{
+    background-color: #4294d0;
+    border-radius: 16px;
+    margin-left: 60px;
+    color: white;
+    margin-top: 10px;
+}
+.techy{
+    margin-left: 60px;
+    font-size: 30px;
+    font-weight: 200;
+
+}
+.bestp{
+    font-size: 16px;
+}
+.besth {
+    font-size: 35px;
+    padding-top: 25px;
+    font-weight: 600;
+
+}
+.img1 img{
+    width: 330px;
+    height: 500px;
+    
+    border: .1px solid #000;
+
+}
+.img2 img{
+    width: 350px;
+    height: 500px;
+    border: .1px solid #000;
+
+}
+.img3 img{
+    width: 350px;
+    height: 500px;
+    border: .1px solid #000;
+
+}
+.down1{
+font-weight: 600;
+font-size: 25px;
+margin-top: 10px;
+}
+.down2{
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.down3{
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.up1{
+    font-size: 18px;
+    font-weight: 300;
+}
+.up2{
+    font-size: 18px;
+    font-weight: 300;
+}
+.mainp{
+    font-size: 35px;
+    margin-top: 20px;
+}
+.imoim img{
+    height: 500px;
+    width: 320px;
+}
+
+.ohoi img{
+    height: 350px;
+    width: 350px;
+
+}
+.info1{
+    font-size: 35px;
+    font-weight: 500;
+
+}
+.info2{
+    font-size: 22px;
+    font-weight: 300;
+}
+.margino{
+    margin-top: 80px;
+
+}
+.oho{
+    margin-top: 0px;
+}
+
+.oho{
+    margin-top: 20px;
+}
+.uio h1{
+    margin-top: 20px;
+}
+
+.card img{
+    height: 600px;
+    width: 500px;
+}
+.minion{
+    font-size: 21px;
+    margin-top: 20px;
+    font-weight: 300;
+}
+.mini1{
+    margin-top: 100px;
+}
+.mui img{
+    width:300px;
+    height: 190px;
+
+
+}
+.uio1 h1{
+    margin-top: 20px;
+}
+.bestv img{
+    height: 350px;
+    width: 280px;
+    
+
+}
+
+.colab img{
+    width: 40px;
+    height: 40px;
+}
+.colab{
+    background-color: #022946;
+    padding: 20px;
+    
+
+}
+.mainfooter{
+    background-color: #4294d0;
+    padding: 25px;
+    color: #ffffff;
+}
+.demo {
+    font-size: 18px;
+}
+.demo1 {
+    font-size: 16px;
+    font-weight: 300;
+}
+.colop img{
+    height: 300px;
+    width: 320px;
+    margin-top: 150px;
+
+
+}
+.vent{
+    margin-top: 170px;
+    font-weight: 400;
+}
+.vent1{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.meanit{
+    background-color: rgba(165, 190, 216, 0.329);
+    padding: 50px;
+    border-bottom-right-radius: 50px;
+}
+.he1 img{
+
+    height: 500px;
+    width: 370px;
+    margin-top: 110px;
+
+}
+
+.he1a img{
+
+    height: 517px;
+    width: 370px;
+    margin-top: 99px;
+
+}
+.he1b img{
+
+    height: 510px;
+    width: 370px;
+    margin-top: 130px;
+
+}
+
+
+.connie{
+    margin-top: 70px;
+}
+
+
+.button1{
+    background-color: white;
+    color:#4294d0 ;
+    border: .3px solid #4294d0;
+}
+.button1:hover{
+    color: #4294d0;
+    border-radius: 12px;
+}
+
+.onesec{
+
+    
+    border: .3px solid #4294d0;
+    padding: 50px;
+    color:#4294d0;
+    border-radius: 15px;
+}
+
+.hased a{
+    text-decoration: none;
+    color: #4294d0;
+}
+
+.hase{
+    color: #4294d0;
+    font-weight: 500;
+    
+}
+
+.hasi{
+    font-weight: 300;
+    
+}
+.haso{
+    height: 700px;
+    width: 550px;
+}
+.input1{
+
+    
+}
